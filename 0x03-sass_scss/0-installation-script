@@ -1,0 +1,3 @@
+#!/bin/bash
+# This script installs SASS 
+npm install sass -v 3.7.4
